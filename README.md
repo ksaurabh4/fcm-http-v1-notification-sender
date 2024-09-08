@@ -104,7 +104,7 @@ You can also run this script directly in Google Colab by uploading your service 
 3. Update the `SERVICE_ACCOUNT_FILE` path or paste the JSON content as per the instructions above.
 4. Run the code to send the notification.
 
-If you'd prefer to use the pre-existing Colab notebook, you can [click here to open the notebook]([https://colab.research.google.com/drive/1-lxmNV8_j7CabMejA8QAkFrjJ4GSurdx](https://colab.research.google.com/drive/1AC3iyBmIusHrXayNy5XIf6BiK3QWlPv_)). *(Update this link with your Colab notebook URL once saved and shared)*.
+If you'd prefer to use the pre-existing Colab notebook, you can [click here to open the notebook]([https://colab.research.google.com/drive/1-lxmNV8_j7CabMejA8QAkFrjJ4GSurdx](https://colab.research.google.com/drive/1AC3iyBmIusHrXayNy5XIf6BiK3QWlPv_)).
 
 Colab is a convenient cloud-based environment that doesn't require local setup, making it easy to experiment and run Python scripts from anywhere.
 
@@ -132,4 +132,4 @@ message = {
 In case of issues with sending the message or generating the access token, appropriate error messages will be printed to the console, detailing the cause of failure.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE file](https://github.com/ksaurabh4/fcm-http-v1-notification-sender/blob/main/LICENSE) for details.
