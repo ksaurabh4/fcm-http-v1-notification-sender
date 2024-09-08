@@ -15,8 +15,8 @@ Before running the project, ensure you have the following:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ksaurabh4/send_fmc_notification
-    cd send_fmc_notification
+    git clone https://github.com/ksaurabh4/fcm-http-v1-notification-sender.git
+    cd fcm-http-v1-notification-sender
     ```
 
 2. Install the required Python packages:
@@ -92,7 +92,7 @@ Before running the project, ensure you have the following:
 
 2. Upon successful execution, the script will send a notification to the target device and display the response in the console.
 
-### Run on Google Colab
+### OPTION 2 : Run on Google Colab Directly
 
 You can also run this script directly in Google Colab by uploading your service account key and running the code. To do so:
 
